@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... HTML, CSS, javascript through codecademy
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... tecollins03@gmail.com
+- PLEASE RATE MY CODE AND LEAVE SUGGESTIONS! I LOOK FORWARD TO COLLABORATING WITH YOU ALL!!!
 
 <!---
 hunterkooper/hunterkooper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
