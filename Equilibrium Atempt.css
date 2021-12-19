@@ -1,0 +1,68 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: #0C192C;
+    
+}
+
+#logo {
+    width: 275px;
+    height: 284px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 15px;
+}
+
+
+#rectangle{
+    background-color:  #15273F;
+    height: 558px;
+    width:  327px;
+    margin: auto;
+    margin-bottom: 700px;
+    border-radius: 15px;
+
+    
+}
+
+#name {
+    margin-left: 30px;
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+}
+
+#description{
+    margin-left: 30px;
+    color: #83A2CE;
+    font-weight: 300;
+}
+
+#number{
+    margin-left: 30px ;
+    color: #28FFFF;
+}
+
+#days{
+text-align: right;
+color:#83A2CE;
+margin-bottom: 65px;
+
+}
+
+#author{
+    color: #83A2CE;
+}
+
+#author_name{
+    color:white;
+}
+
+#picture {
+
+    width: 40px;
+    height: 40px;
+    border: solid white;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left:  30px;
+}
