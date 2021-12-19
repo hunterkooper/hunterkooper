@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Equilibrium</title>
+        <link href= "Equilibrium.css" rel= "stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="rectangle">
+            <image id= "logo" src= "C:\Users\tecollins\Desktop\image-equilibrium.jpg"/>
+            
+            <p id= "name">Equilibrium #3429</p>
+            <p id= "description">Our Equilibrium collection promotes balance and calm. </p>
+            <p id= "number">0.041ETH</p>
+            <image id= "picture" src= "C:\Users\tecollins\Desktop\image-avatar.png"/>
+            <p id= "days">3 days left</p>
+            <p id= "author"> creation of <div id= "author_name">Jules Wyvern</div></p>
+          
+            
+
+
+        </div>
+    </body>
+
+   
+</html>
